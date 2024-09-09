@@ -92,7 +92,7 @@ class Review(models.Model):
 
     class Meta:
         unique_together = (('book', 'user'),)
-        index_together = (('book', 'user'),)
+        # index_together = (('book', 'user'),)
 
 
 class Cart(models.Model):
