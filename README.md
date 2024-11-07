@@ -4,6 +4,8 @@ Ovaj fajl dokumentuje Django modele za aplikaciju koja upravlja knjigama, piscim
 
 ## Pregled modela
 
+<img src="Book store - Model.png"/>
+
 - **Image**: Čuva podatke o slikama.
 - **Genre**: Predstavlja žanr knjiga i pisaca.
 - **Writer**: Sadrži detalje o piscima.
